@@ -7,6 +7,9 @@ var settings = {
 var tc;
 var td;
 var nc;
+
+
+
   $.ajax(settings).done(function (response) {
     console.log(response);
     td = response['data']['local_deaths'];
