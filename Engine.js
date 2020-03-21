@@ -3,7 +3,7 @@ var settings = {
     "method": "GET",
     "timeout": 0,
   };
-
+  
 var tc;
 var td;
 var nc;
