@@ -1,5 +1,5 @@
 var settings = {
-    "url": "http://hpb.health.gov.lk/api/get-current-statistical",
+    "url": "https://hpb.health.gov.lk/api/get-current-statistical",
     "method": "GET",
     "timeout": 0,
   };
